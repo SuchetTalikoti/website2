@@ -1,0 +1,149 @@
+.clr{
+	font-size: 4rem;
+	color: #ff4c68;
+	padding-bottom: 20px;
+}
+i:hover {
+	color:#c70039;
+}
+.col{
+	text-align: center;
+	margin-bottom: 2rem;
+}
+#features{
+	z-index: 1;
+	position: relative;
+	padding: 6rem 0rem;
+	background-color: #fff;
+}
+#title{
+		font-family: 'Montserrat', sans-serif;
+
+}
+h3{
+	font-family: "Montserrat-bold";
+	font-size: 1.5rem;
+}
+.img_dog{
+	z-index: 1;
+	left: 1rem;
+	height: 50rem;
+	padding: 4rem 1rem 0px;
+	position: absolute;
+	transform: rotate(25deg);
+	
+}
+.pading_class{
+	padding-top: 4rem;
+	padding-bottom: 3rem;
+
+}
+.navbar-brand{
+	font-family: "Ubuntu";
+	font-size: 2rem;
+	/*padding-bottom: 5%;*/
+}
+.nav-item{
+	padding-right: 18px;
+	padding-left: 18px;
+}
+.nav-link{
+	font-family: "Montserrat-light";
+}
+.navbar{
+	padding-left: 0px;
+	padding-bottom: 5%;
+
+}
+.container-fluid{
+	padding: 3% 15%;
+}
+.logo{
+	width: 30px;
+	height: 30px;
+	margin-right: 10px;
+}
+#title{
+	background-color: #ff4c68;
+}
+h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 3rem;
+	line-height: 1.5;
+}
+h2{
+	font-family: "Montserrat-bold";
+	font-size: 	3rem;
+	line-height: 1.5;
+	font-weight: 40px;
+}
+.testimonials_img{
+	margin-top: 40px;
+	width: 10%;
+	border-radius: 100%;
+}
+#testimonials{
+	padding: 5% 15%;
+	
+	text-align: center;
+	background-color: #ff4c68;
+	color: #fff;
+}
+#press{
+	background-color: #ff4c68;
+	text-align: center;
+	padding-bottom: 3%;
+}
+.img_stack{
+	width: 15%;
+	margin: 20px;
+}
+
+.carousel-item{
+	padding: 7% 15%;
+}
+#pricing{
+	padding: 100px;
+	text-align: center;
+}
+.row{
+	padding : 5%; 
+}
+.img_dog{
+	width: ;
+}
+#cta{
+	text-align: center;
+	background-color: #ff4c68;
+	padding: 5rem 5rem;
+}
+.h3_data{
+	font-family: "Montserrat-bold";
+	padding: 3rem 3rem;
+	color: #fff;
+	font-size: 3rem;
+}
+@media(max-width: 995px){
+
+#title{
+	text-align: center;
+}
+
+.img_dog{
+	transform: rotate(0);
+	
+	left: 1rem;
+	height: 50rem;
+	position: static;
+	text-align: left;
+	
+}
+}
+
+#footer{
+	padding: 4rem 4rem;
+	text-align: center;
+}
+.a{
+	padding: 3px 3px;
+}
